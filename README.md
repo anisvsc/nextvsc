@@ -1,8 +1,3 @@
-Here’s a polished `README.md` for your `nextvsc` Next.js starter template repo:
-
----
-
-````md
 # nextvsc
 
 **nextvsc** is a modern and minimal Next.js starter template with full TypeScript support, Tailwind CSS, ShadCN UI, opinionated Prettier and ESLint configurations, and clean import sorting. Ideal for building high-quality apps out of the box.
@@ -39,11 +34,9 @@ Here’s a polished `README.md` for your `nextvsc` Next.js starter template repo
 ├── public/
 ├── styles/
 ├── tsconfig.json
-├── tailwind.config.ts
-├── prettier.config.js
-└── eslint.config.js
+├── .prettierrc
+└── eslint.config.mjs
 ```
-````
 
 ---
 
