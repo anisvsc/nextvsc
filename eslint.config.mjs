@@ -1,5 +1,6 @@
 import { dirname } from "path";
 import { fileURLToPath } from "url";
+
 import { FlatCompat } from "@eslint/eslintrc";
 
 const __filename = fileURLToPath(import.meta.url);
@@ -13,7 +14,7 @@ const eslintConfig = [
   ...compat.config({
     extends: ["next/core-web-vitals", "next/typescript", "prettier"],
     plugins: {
-      prettier: require('eslint-plugin-prettier'), // adds Prettier rule
+      prettier: require("eslint-plugin-prettier"), // adds Prettier rule
     },
     rules: {
       "react/no-unescaped-entities": "off",
