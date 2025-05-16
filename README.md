@@ -185,8 +185,3 @@ MIT — feel free to use and adapt this template for personal or commercial proj
 ## 🙌 Contributions
 
 Issues and PRs are welcome! If you have ideas or improvements, feel free to contribute.
-
-```
-
-Let me know if you'd like a badge section or to include instructions for deploying (e.g., to Vercel).
-```
